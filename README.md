@@ -1,4 +1,4 @@
-Here's the complete README.md file:
+
 
 ```markdown
 # ✨ Email Writer Assistant
@@ -312,9 +312,6 @@ vercel --prod
 
 
 
-## 📄 License
-
-MIT License - feel free to use for personal or commercial projects
 
 ## 👤 Author
 
